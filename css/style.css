@@ -1,0 +1,75 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background:black;
+    -webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+a{
+    color:#fff;
+}
+a:hover {
+    color:#fff;
+}
+.wrapper{
+    max-width:1200px;
+    margin:0 auto;
+    padding:24px;
+}
+.hero-text {
+    margin-top:10vh;
+}
+.hero-text h1{
+    color:#fff;
+}
+.hero-text h1{
+    font-family: 'Asar', serif;
+    opacity: 1;
+    color:#fff;
+    font-size:48px;
+}
+.hero-text h5{
+    color:Red;
+}
+.pronounce{
+    opacity: .25;
+    transition: 1s;
+    color:#fff;
+}
+.pronounce:hover {
+    opacity: 1;
+}
+.headline {
+    font-size:24px;
+}
+.social-icons a{
+    color:#fff;
+    font-size:24px;
+    margin-right:20px;
+    text-decoration: none;
+}
+.redbull {
+    color:#FF0033;
+}
+.workday {
+    color:#f18a23;
+}
+.wpengine {
+    color:#40bac8;
+}
+.adchemy {
+    color:#3c9cd5;
+}
+.reconsole {
+    color:#1194f6;
+}
+.dribbble{
+    color:#ea4c89;
+}
+.github{
+    color:#6e5494;
+}
+.behance{
+    color:#1769ff;
+}
